@@ -109,7 +109,7 @@ var (
 )
 
 const (
-	x86GccVersion = "4.9"
+	x86GccVersion = "linaro-7.2"
 )
 
 func init() {
